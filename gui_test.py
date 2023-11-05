@@ -34,9 +34,6 @@ def run_esToEn_script():
         output_text.config(text=f"An error occurred: {str(e)}")
 
 
-
-
-
 root = tk.Tk()
 root.title("Speech Translator")
 root.geometry("500x500")
